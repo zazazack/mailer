@@ -1,0 +1,8 @@
+FROM: ${f}
+TO: ${t}
+
+${salutation}
+
+${body}
+
+${signature}
